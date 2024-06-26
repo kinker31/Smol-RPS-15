@@ -1,3 +1,6 @@
+# "proof or it didn't happen"
+[![asciicast](https://asciinema.org/a/Vjg2X8XhP0zekNCarnkrwUFPh.svg)](https://asciinema.org/a/Vjg2X8XhP0zekNCarnkrwUFPh)
+
 # Information and Whatnot
 
 You should only need GCC to compile this, as the source code is intended to only take place in a single C file.
