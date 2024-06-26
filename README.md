@@ -1,2 +1,6 @@
-# Smol-RPS-15
-An implentation of a 15-gesture version of Rock Paper Scissors in C, intended to have a small diskspace/memory footprint
+# Information and Whatnot
+
+You should only need GCC to compile this, as the source code is intended to only take place in a single C file.
+It *might* work on Windows, but you *might* also have to do some fiddling to get it to work. This program is intended for use in Linux, after all.
+
+Might also provide .deb, .rpm, and/or Arch PKGBUILD crap when the time comes.
